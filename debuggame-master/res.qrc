@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/physics/bullet.png</file>
+        <file>D:/physics/player.png</file>
+        <file>D:/physics/bk.jpg</file>
+        <file>D:/physics/c++.png</file>
+        <file>D:/physics/drupal.png</file>
+        <file>D:/physics/java.png</file>
+        <file>D:/physics/javascript.jpg</file>
+        <file>D:/physics/php.png</file>
+        <file>D:/physics/lua.png</file>
+        <file>D:/physics/ruby.png</file>
+        <file>D:/physics/python.png</file>
+        <file>D:/physics/zebcart.png</file>
+        <file>D:/physics/swift.png</file>
+        <file>D:/physics/bash.png</file>
+        <file>D:/physics/css.png</file>
+        <file>D:/physics/obj-c.png</file>
+        <file>D:/physics/csharp.png</file>
+        <file>D:/physics/c1.png</file>
+    </qresource>
+</RCC>
