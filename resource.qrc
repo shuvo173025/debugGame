@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>../../Downloads/New folder/bash.png</file>
+        <file>../../Downloads/New folder/bullet.png</file>
+        <file>../../Downloads/New folder/c++.png</file>
+        <file>../../Downloads/New folder/c1.png</file>
+        <file>../../Downloads/New folder/csharp.png</file>
+        <file>../../Downloads/New folder/css.png</file>
+        <file>../../Downloads/New folder/django.png</file>
+        <file>../../Downloads/New folder/django-python.png</file>
+        <file>../../Downloads/New folder/drupal.png</file>
+        <file>../../Downloads/New folder/go.png</file>
+        <file>../../Downloads/New folder/html.png</file>
+        <file>../../Downloads/New folder/java.png</file>
+        <file>../../Downloads/New folder/javascript.jpg</file>
+        <file>../../Downloads/New folder/linx.png</file>
+        <file>../../Downloads/New folder/lua.png</file>
+        <file>../../Downloads/New folder/obj-c.png</file>
+        <file>../../Downloads/New folder/perl.png</file>
+        <file>../../Downloads/New folder/perl2.png</file>
+        <file>../../Downloads/New folder/php.png</file>
+        <file>../../Downloads/New folder/player.png</file>
+        <file>../../Downloads/New folder/python 2.png</file>
+        <file>../../Downloads/New folder/python.png</file>
+        <file>../../Downloads/New folder/ruby.png</file>
+        <file>../../Downloads/New folder/Solr.png</file>
+        <file>../../Downloads/New folder/swift.png</file>
+        <file>../../Downloads/New folder/zebcart.png</file>
+        <file>../../Downloads/New folder/background6.jpg</file>
+        <file>../../Downloads/New folder/background3.jpg</file>
+    </qresource>
+</RCC>
